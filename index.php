@@ -1,5 +1,5 @@
-       <!--- contact forum php code / get masseg to email address---->
-       <?php 
+<!--- contact forum php code / get masseg to email address---->
+<?php 
       $errors = [];
       $errorMessage= '';
       if (!empty ($_POST)){
@@ -49,6 +49,6 @@
        
     }
     
-      
     
-    ?> 
+    
+?> 
